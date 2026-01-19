@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there Tomozuka Ryo👋
 - I'm hungry every day!!😋
 - Frontend engineer/backend engineer
 - 
@@ -7,7 +7,7 @@
   <img src="https://skillicons.dev/icons?i=nextjs,astro,sass,ts,html,css,js,figma,php,react" />
 </p>
 
-## Training
+## 😕Training
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
