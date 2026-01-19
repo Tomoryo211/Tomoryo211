@@ -1,7 +1,7 @@
 ## Hi there 👋
-
+- I'm I'm hungry every day!!😋
+- 
 ## 😏 Skills
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nextjs,astro,sass,ts,html,css,js,figma,php,react" />
 </p>
