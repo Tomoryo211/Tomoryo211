@@ -1,5 +1,6 @@
 ## Hi there 👋
-- I'm I'm hungry every day!!😋
+- I'm hungry every day!!😋
+- front end engineer/backend engineer
 - 
 ## 😏 Skills
 <p align="left">
