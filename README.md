@@ -3,7 +3,12 @@
 ## 😏 Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,astro,sass,ts,html,css,js,figma,php,mysql,react" />
+  <img src="https://skillicons.dev/icons?i=nextjs,astro,sass,ts,html,css,js,figma,php,react" />
+</p>
+
+## Training
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysgl" />
 </p>
 <!--
 **Tomoryo211/Tomoryo211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
