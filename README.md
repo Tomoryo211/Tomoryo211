@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+## 😎 Skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,astro,sass,tailwind,ts,html,css,js,figma,ai,ps" />
+</p>
 <!--
 **Tomoryo211/Tomoryo211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
